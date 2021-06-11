@@ -1,4 +1,6 @@
 {
+  "name": "sviluppo_ngselect",
+  "version": "1.0.0",
   "repository": "sviluppo/ng-select",
   "engines": {
     "node": ">= 6.9.0",
